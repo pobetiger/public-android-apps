@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_menu_logging_on" android:checked="false" android:checkable="true" android:visible="true" android:enabled="true"/><item android:id="@+id/action_exit" android:title="@string/action_menu_exit" android:visible="true" android:enabled="true" android:checkable="false" android:orderInCategory="101"></item>
+    
+
+</menu>

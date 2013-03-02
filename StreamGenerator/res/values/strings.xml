@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StreamViewer</string>
+    <string name="action_settings">Turn Logging On</string>
+    <string name="action_menu_logging_on">Turn Logging On</string>
+    <string name="action_menu_logging_off">Turn Logging Off</string>
+    <string name="action_menu_exit">Exit</string><string name="label_streaming_url">URL</string>
+    
+
+</resources>
